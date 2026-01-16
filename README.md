@@ -13,7 +13,7 @@ This project allows users to input mathematical functions directly from the **CM
 - Uses **NumPy** for fast numerical computation.
 - Graphs rendered with **Matplotlib**.
 - Easy to extend with custom functions.
-
+- PDF downloed file for the graph 
 ---
 
 ## 📦 Requirements
