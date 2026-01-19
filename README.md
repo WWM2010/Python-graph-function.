@@ -22,3 +22,7 @@ Install dependencies with:
 
 ```bash
 pip install numpy matplotlib
+```
+This is an example of a Function :
+<img width="1419" height="843" alt="image" src="https://github.com/user-attachments/assets/8e04887d-daab-4569-b872-ea082dfbb8aa" />
+
